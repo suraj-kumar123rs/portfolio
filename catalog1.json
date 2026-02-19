@@ -150,9 +150,13 @@
     }
   ],
   "aggregations": {
-    "books": {
-      "count": 3,
-      "inventoryValue": 50385.58
-    }
+  "books": {
+    "count": 3,
+    "inventoryValue": 50385.58
+  },
+  "electronics": {
+    "count": 2,
+    "inventoryValue": 63270.06
   }
+}
 }
